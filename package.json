@@ -1,0 +1,13 @@
+{
+  "name": "bezier-brain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "alibek",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "1.6.1",
+    "canvas": "2.8.0",
+    "pngjs": "5.0.0"
+  }
+}
